@@ -1,3 +1,10 @@
+/*
+ * @version: no version
+ * @LastEditors: QMJ
+ * @Description: 用于加速度控制的类定义
+ * @author: QMJ
+ * @LastEditTime: 2025-09-11 11:48:18
+ */
 #ifndef ACCELERATION_CONTROL_HPP
 #define ACCELERATION_CONTROL_HPP
 
